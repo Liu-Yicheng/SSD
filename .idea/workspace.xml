@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="276134c3-4524-41df-98bc-748d6a3d566c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="train_ssd.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/train_ssd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="169" column="19" lean-forward="true" selection-start-line="169" selection-start-column="4" selection-end-line="169" selection-end-column="19" />
+              <folding>
+                <element signature="e#653#691#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="losses_impl.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/ops/losses/losses_impl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17024">
+              <caret line="912" column="67" lean-forward="false" selection-start-line="912" selection-start-column="67" selection-end-line="912" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anchor_manipulator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utility/anchor_manipulator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6669">
+              <caret line="356" column="30" lean-forward="false" selection-start-line="356" selection-start-column="30" selection-end-line="356" selection-end-column="30" />
+              <folding>
+                <element signature="e#653#664#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssd_preprocessing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preprocessing/ssd_preprocessing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9652">
+              <caret line="513" column="35" lean-forward="false" selection-start-line="513" selection-start-column="35" selection-end-line="513" selection-end-column="35" />
+              <folding>
+                <element signature="e#1922#1960#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataset_common.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataset/dataset_common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2508">
+              <caret line="136" column="134" lean-forward="false" selection-start-line="136" selection-start-column="134" selection-end-line="136" selection-end-column="134" />
+              <folding>
+                <element signature="e#653#691#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="convolutional.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/layers/convolutional.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5833">
+              <caret line="314" column="14" lean-forward="false" selection-start-line="314" selection-start-column="14" selection-end-line="314" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="control_flow_ops.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/ops/control_flow_ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7733">
+              <caret line="447" column="73" lean-forward="false" selection-start-line="447" selection-start-column="4" selection-end-line="447" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssd_net.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/net/ssd_net.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4712">
+              <caret line="248" column="38" lean-forward="true" selection-start-line="248" selection-start-column="38" selection-end-line="248" selection-end-column="38" />
+              <folding>
+                <element signature="e#653#691#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pooling.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/layers/pooling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4750">
+              <caret line="256" column="6" lean-forward="false" selection-start-line="256" selection-start-column="6" selection-end-line="256" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/preprocessing/ssd_preprocessing.py" />
+        <option value="$PROJECT_DIR$/utility/anchor_manipulator.py" />
+        <option value="$PROJECT_DIR$/net/ssd_net.py" />
+        <option value="$PROJECT_DIR$/train_ssd.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
+    <option name="y" value="4" />
+    <option name="width" value="1353" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ssd_net" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/net" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SSD.TensorFlow-AbsoluteCoord" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/net/ssd_net.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.ssd_net" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="276134c3-4524-41df-98bc-748d6a3d566c" name="Default" comment="" />
+      <created>1544598918241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544598918241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="8" y="4" width="1353" height="735" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1349454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1800643" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39871383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/net/ssd_net.py</url>
+          <line>75</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/net/ssd_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4864">
+          <caret line="256" column="18" lean-forward="true" selection-start-line="256" selection-start-column="18" selection-end-line="256" selection-end-column="18" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/ops/control_flow_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8493">
+          <caret line="447" column="73" lean-forward="false" selection-start-line="447" selection-start-column="4" selection-end-line="447" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utility/anchor_manipulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6916">
+          <caret line="369" column="68" lean-forward="false" selection-start-line="369" selection-start-column="68" selection-end-line="369" selection-end-column="68" />
+          <folding>
+            <element signature="e#653#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="194" column="8" lean-forward="false" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="58" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/ssd_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10450">
+          <caret line="555" column="25" lean-forward="true" selection-start-line="555" selection-start-column="25" selection-end-line="555" selection-end-column="25" />
+          <folding>
+            <element signature="e#1922#1960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/dataset_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4446">
+          <caret line="238" column="0" lean-forward="true" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/ssd_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4883">
+          <caret line="257" column="12" lean-forward="true" selection-start-line="257" selection-start-column="12" selection-end-line="257" selection-end-column="12" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/ops/control_flow_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8493">
+          <caret line="447" column="73" lean-forward="false" selection-start-line="447" selection-start-column="4" selection-end-line="447" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utility/anchor_manipulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5928">
+          <caret line="317" column="41" lean-forward="false" selection-start-line="317" selection-start-column="41" selection-end-line="317" selection-end-column="41" />
+          <folding>
+            <element signature="e#653#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3648">
+          <caret line="206" column="91" lean-forward="false" selection-start-line="206" selection-start-column="91" selection-end-line="206" selection-end-column="91" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utility/anchor_manipulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4256">
+          <caret line="229" column="34" lean-forward="false" selection-start-line="229" selection-start-column="34" selection-end-line="229" selection-end-column="34" />
+          <folding>
+            <element signature="e#653#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/dataset_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3325">
+          <caret line="179" column="47" lean-forward="false" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="47" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/ssd_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" column="49" lean-forward="false" selection-start-line="78" selection-start-column="49" selection-end-line="78" selection-end-column="49" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/ops/control_flow_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8493">
+          <caret line="447" column="73" lean-forward="true" selection-start-line="447" selection-start-column="4" selection-end-line="447" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/ssd_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7714">
+          <caret line="411" column="4" lean-forward="false" selection-start-line="411" selection-start-column="4" selection-end-line="411" selection-end-column="4" />
+          <folding>
+            <element signature="e#1922#1960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3705">
+          <caret line="209" column="86" lean-forward="false" selection-start-line="209" selection-start-column="86" selection-end-line="209" selection-end-column="86" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utility/anchor_manipulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4351">
+          <caret line="229" column="34" lean-forward="false" selection-start-line="229" selection-start-column="34" selection-end-line="229" selection-end-column="34" />
+          <folding>
+            <element signature="e#653#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/ssd_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9386">
+          <caret line="494" column="4" lean-forward="false" selection-start-line="494" selection-start-column="4" selection-end-line="494" selection-end-column="4" />
+          <folding>
+            <element signature="e#1922#1960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/dataset_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3724">
+          <caret line="200" column="34" lean-forward="false" selection-start-line="200" selection-start-column="34" selection-end-line="200" selection-end-column="34" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/ssd_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4864">
+          <caret line="260" column="27" lean-forward="false" selection-start-line="260" selection-start-column="17" selection-end-line="260" selection-end-column="27" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3971">
+          <caret line="209" column="86" lean-forward="false" selection-start-line="209" selection-start-column="86" selection-end-line="209" selection-end-column="86" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utility/anchor_manipulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4351">
+          <caret line="229" column="34" lean-forward="false" selection-start-line="229" selection-start-column="34" selection-end-line="229" selection-end-column="34" />
+          <folding>
+            <element signature="e#653#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/ssd_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9386">
+          <caret line="494" column="4" lean-forward="false" selection-start-line="494" selection-start-column="4" selection-end-line="494" selection-end-column="4" />
+          <folding>
+            <element signature="e#1922#1960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/dataset_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3800">
+          <caret line="200" column="34" lean-forward="false" selection-start-line="200" selection-start-column="34" selection-end-line="200" selection-end-column="34" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/ssd_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4940">
+          <caret line="260" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="260" selection-end-column="34" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3439">
+          <caret line="195" column="105" lean-forward="false" selection-start-line="195" selection-start-column="105" selection-end-line="195" selection-end-column="105" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/ssd_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8816">
+          <caret line="464" column="17" lean-forward="false" selection-start-line="464" selection-start-column="17" selection-end-line="464" selection-end-column="17" />
+          <folding>
+            <element signature="e#1922#1960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/dataset_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="136" column="110" lean-forward="false" selection-start-line="136" selection-start-column="110" selection-end-line="136" selection-end-column="110" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utility/anchor_manipulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5700">
+          <caret line="300" column="78" lean-forward="true" selection-start-line="300" selection-start-column="78" selection-end-line="300" selection-end-column="78" />
+          <folding>
+            <element signature="e#653#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/ssd_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4978">
+          <caret line="266" column="0" lean-forward="true" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8588">
+          <caret line="466" column="12" lean-forward="false" selection-start-line="466" selection-start-column="12" selection-end-line="466" selection-end-column="12" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/estimator/estimator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3249">
+          <caret line="171" column="46" lean-forward="false" selection-start-line="171" selection-start-column="46" selection-end-line="171" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/ssd_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8721">
+          <caret line="464" column="17" lean-forward="true" selection-start-line="464" selection-start-column="17" selection-end-line="464" selection-end-column="17" />
+          <folding>
+            <element signature="e#1922#1960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/dataset_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="136" column="110" lean-forward="false" selection-start-line="136" selection-start-column="110" selection-end-line="136" selection-end-column="110" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/layers/convolutional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5187">
+          <caret line="280" column="22" lean-forward="false" selection-start-line="280" selection-start-column="22" selection-end-line="280" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/layers/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4750">
+          <caret line="256" column="6" lean-forward="false" selection-start-line="256" selection-start-column="6" selection-end-line="256" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/ssd_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="72" column="26" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="72" selection-end-column="26" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple_ssd_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/estimator/run_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="450" column="76" lean-forward="true" selection-start-line="450" selection-start-column="22" selection-end-line="450" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eval_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/ops/variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="1157" column="28" lean-forward="false" selection-start-line="1157" selection-start-column="28" selection-end-line="1157" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/estimator/estimator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="171" column="46" lean-forward="false" selection-start-line="171" selection-start-column="46" selection-end-line="171" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/ops/control_flow_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7733">
+          <caret line="447" column="73" lean-forward="false" selection-start-line="447" selection-start-column="4" selection-end-line="447" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/layers/convolutional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5833">
+          <caret line="314" column="14" lean-forward="false" selection-start-line="314" selection-start-column="14" selection-end-line="314" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/ssd_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9652">
+          <caret line="513" column="35" lean-forward="false" selection-start-line="513" selection-start-column="35" selection-end-line="513" selection-end-column="35" />
+          <folding>
+            <element signature="e#1922#1960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/dataset_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="136" column="134" lean-forward="false" selection-start-line="136" selection-start-column="134" selection-end-line="136" selection-end-column="134" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utility/anchor_manipulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6669">
+          <caret line="356" column="30" lean-forward="false" selection-start-line="356" selection-start-column="30" selection-end-line="356" selection-end-column="30" />
+          <folding>
+            <element signature="e#653#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/layers/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4750">
+          <caret line="256" column="6" lean-forward="false" selection-start-line="256" selection-start-column="6" selection-end-line="256" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/ssd_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4712">
+          <caret line="248" column="38" lean-forward="true" selection-start-line="248" selection-start-column="38" selection-end-line="248" selection-end-column="38" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/ops/losses/losses_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17024">
+          <caret line="912" column="67" lean-forward="false" selection-start-line="912" selection-start-column="67" selection-end-line="912" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="169" column="19" lean-forward="true" selection-start-line="169" selection-start-column="4" selection-end-line="169" selection-end-column="19" />
+          <folding>
+            <element signature="e#653#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
